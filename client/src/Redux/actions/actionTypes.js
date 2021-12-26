@@ -1,0 +1,13 @@
+export const ALL_TYPES = "ALL_TYPES";
+export const ALL_POKEMONS = "ALL_POKEMONS";
+export const POKEMON_BY_NAME = "POKEMON_BY_NAME";
+export const POKEMON_BY_ID = "POKEMON_BY_ID";
+export const ADD_POKEMON = "ADD_POKEMON";
+export const CLEAR_POKEMON = "CLEAR_POKEMON";
+export const ORDER_POKEMONS = "ORDER_POKEMONS";
+export const FILTERED_POKEMONS = "FILTERED_POKEMONS";
+export const CLEAN_POKEMONS = "CLEAN_POKEMONS";
+export const CLEAR_POKEMON_BY_ID = "CLEAR_POKEMON_BY_ID";
+
+
+
